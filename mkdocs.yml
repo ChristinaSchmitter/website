@@ -6,7 +6,7 @@ theme:                  ##under theme goes everything design related
       accent: cyan
     font:
       codes: Quicksand
-    logo: /assets/images/stern-logo-form-symbol-einfach-zeichen-geschenk-buttons-gross.png    
+    logo: /assets/images/stern.png    
     features:
       - navigation.tabs
       - navigation.tabs.sticky

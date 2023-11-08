@@ -6,7 +6,7 @@ theme:                  ##under theme goes everything design related
       accent: cyan
     font:
       codes: Quicksand
-    logo: ./assets/images/stern.jpg    
+    logo: /assets/images/stern.jpg    
     features:
       - navigation.tabs
       - navigation.tabs.sticky

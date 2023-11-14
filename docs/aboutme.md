@@ -1,8 +1,4 @@
----
-hide:
-  - navigation
-  - toc
----
+<link rel="assets" href="../css/social-circles.min.css">
 
 # About me
 
@@ -15,3 +11,5 @@ Some fancy text about me... I will come up with something...
 
 
 Add text
+
+<a class="icon-twitter social-button color" href="http://twitter.com/username"></a>

@@ -5,8 +5,7 @@ theme:                  ##under theme goes everything design related
       primary: blue grey
       accent: cyan
     font:
-      codes: Quicksand
-    logo: /assets/images/stern.jpg    
+      codes: Quicksand 
     features:
       - navigation.tabs
       - navigation.tabs.sticky
@@ -46,3 +45,6 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji 
       emoji_generator: !!python/name:material.extensions.emoji.to_svg  
+extra_css:
+  - /assets/social-circles.css    
+  - /assets/social-circles.min.css

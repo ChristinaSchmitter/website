@@ -1,4 +1,7 @@
-site_name: Christina Schmitter      
+site_name: Christina Schmitter   
+copyright: <a href="https://choosealicense.com/licenses/mit/">License</a>
+  &copy; 2023 Christina Schmitter<br>
+
 theme:                  ##under theme goes everything design related
     name: material
     palette:
@@ -45,6 +48,18 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji 
       emoji_generator: !!python/name:material.extensions.emoji.to_svg  
-extra_css:
-  - /assets/social-circles.css    
-  - /assets/social-circles.min.css
+
+extra:
+  version:
+    provider: mike
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/jk_pfarr
+    - icon: fontawesome/brands/github
+      link: https://github.com/julia-pfarr
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/julia-katharina-pfarr-2a6437236/
+    - icon: fontawesome/brands/researchgate
+      link: https://www.researchgate.net/profile/Julia-Katharina-Pfarr
+    - icon: material/email
+      link: mailto:pfarr@staff.uni-marburg.de 

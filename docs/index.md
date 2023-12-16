@@ -6,6 +6,6 @@ hide:
 
 # About me
 
-![Image title](./assets/images/cv.jpg){ align=left width=300 }
+![Image title](./assets/images/cv-2.jpg){ align=left width=300 }
 
 Add text...

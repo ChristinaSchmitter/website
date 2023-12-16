@@ -8,6 +8,6 @@ hide:
 
 Add text...
 
-![Image title](./assets/images/cv.jpg){ align=right width=300 }
+![Image title](./assets/images/cv.jpg){ align=left width=300 }
 
 

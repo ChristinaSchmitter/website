@@ -21,6 +21,7 @@ nav:
   - About: index.md
   - CV: cv.md
   - Publications: publications.md    
+  - Contact: contact.md
 markdown_extensions:
   - admonition
   - abbr

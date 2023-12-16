@@ -1,6 +1,6 @@
 # Publications
 
-All publications can also be found on [Google Scholar](https://scholar.google.de/citations?user=Kb4w59wAAAAJ&hl=de).
+A list of all publications can also be found on [Google Scholar](https://scholar.google.de/citations?user=Kb4w59wAAAAJ&hl=de).
 
 ### 2023
 

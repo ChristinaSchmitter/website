@@ -6,6 +6,9 @@ hide:
 
 # Other
 
-![Image title](./assets/images/Klettern.JPG){ align=right width=200 vertical-align=text-top}
-![Image title](./assets/images/island.JPG){ align=right width=200 vertical-align=initial}
+![Image title](./assets/images/Klettern.JPG){ align=left width=300}
+
+Add text
+
+![Image title](./assets/images/island.JPG){ align=right 3idth=200}
 

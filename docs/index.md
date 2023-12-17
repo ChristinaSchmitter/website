@@ -6,12 +6,12 @@ hide:
 
 # About me
 
-![Image title](./assets/images/cv-2.jpg){ align=left width=300 }
+![Image title](./assets/images/cv-2.jpg){ align=left width=250 }
 
 Add text...
 
-**Research Interests** 
 
+**Research Interests** 
 - ...
 - ...
 - ...

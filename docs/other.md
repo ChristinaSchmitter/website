@@ -10,5 +10,5 @@ hide:
 
 Add text
 
-![Image title](./assets/images/island.JPG){ align=right 3idth=200}
+![Image title](./assets/images/island.JPG){ align=right width=300}
 
